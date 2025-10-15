@@ -6,3 +6,8 @@ numpy==1.26.2
 surprise==2.3.0
 lightfm==1.16
 tqdm==4.66.1
+streamlit
+pandas
+numpy
+scikit-learn
+requests
